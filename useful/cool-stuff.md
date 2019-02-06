@@ -1,8 +1,10 @@
 ## Preview
 
-You can preview your .md file before uploading it to github in **VS Code** with `Ctrl + Shift + V` **it works on all platforms** since its platform independant and on **Atom** with `Ctrl + Shift + M`. You can also do it in the browser, some of the sites i found.
+You can preview your .md file before uploading it to github in **VS Code** with `Ctrl + Shift + V` **it works on all platforms** since its platform independant and on **Atom** with `Ctrl + Shift + M`. You can also do it in the browser, here are some of the sites i found.
 
 > [Stack Edit](https://stackedit.io),[Dillinger](https://dillinger.io/)
+
+> You can also edit and preview files on [GitHub](https://github.com) directly.
 
 ## Text Styling
 
